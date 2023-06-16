@@ -1,0 +1,1 @@
+INSERT INTO course VALUES(1,'Spring Boot Microservices By DevDojo');
